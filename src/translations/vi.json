@@ -20,7 +20,7 @@
         "date-range-invalid": "Khoảng thời gian không hợp lệ"
     },
     "login": {
-        "login": "Đăng nhập",
+        "login": "Login",
         "username": "Tên đăng nhập",
         "password": "Mật khẩu",
         "userpass-wrong": "Sai tên đăng nhập hoặc mật khẩu!"

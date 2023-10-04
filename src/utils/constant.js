@@ -7,13 +7,8 @@ export const path = {
 
 export const languages = {
     VI: 'vi',
-    EN: 'en'
-};
- 
-export const manageActions = {
-    ADD: "ADD",
-    EDIT: "EDIT",
-    DELETE: "DELETE"
+    EN: 'en',
+    KO: 'ko',
 };
 
 export const dateFormat = {

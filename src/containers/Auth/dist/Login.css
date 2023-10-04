@@ -1,0 +1,44 @@
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("https://source.unsplash.com/WEQbe2jBg40/600x1200");
+  background-size: cover;
+  background-position: center;
+}
+
+.login-heading {
+  font-weight: 300;
+}
+
+.form-floating {
+  border-radius: 0;
+  border: 1px solid #eeece2;
+  background: #fff;
+  color: white;
+  font-size: 14px;
+  color: #333;
+  font-family: inherit;
+}
+.form-floating input:focus {
+  outline-color: rgba(0, 0, 0, 0);
+  background: rgba(255, 255, 255, 0.95);
+  color: #2d58b6;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  float: right;
+  height: 80px;
+  width: 80px;
+  border: none;
+  background: #2d58b6;
+  border-radius: 0;
+  padding: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+}
